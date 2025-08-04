@@ -1,0 +1,19 @@
+{
+  "languages": [
+    {
+      "name": "English",
+      "spoken": "Fluent",
+      "written": "Fluent"
+    },
+    {
+      "name": "Hindi",
+      "spoken": "Fluent",
+      "written": "Intermediate"
+    },
+    {
+      "name": "Gujarati",
+      "spoken": "Native",
+      "written": "Advanced"
+    }
+  ]
+}

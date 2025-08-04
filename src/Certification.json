@@ -1,0 +1,16 @@
+{
+  "certifications": [
+    {
+      "courseName": "React - The Complete Guide",
+      "platform": "Alison",
+      "date": "2025-07-15",
+      "credentialUrl": "https://alison.com/courses"
+    },
+    {
+      "courseName": "Google Data Analytics",
+      "platform": "Coursera",
+      "date": "2025-07-30",
+      "credentialUrl": "https://www.coursera.org/account/accomplishments/google-data-analytics"
+    }
+  ]
+}

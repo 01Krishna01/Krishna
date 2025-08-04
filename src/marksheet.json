@@ -1,0 +1,33 @@
+{
+  "studentName": "Krishna Hada",
+  "rollNumber": "07",
+  "course": "M.Sc. IT",
+  "college": "Atmiya University",
+  "years": [
+    {
+      "year": "1st Sem",
+      "subjects": [
+        { "name": "Structured Object Oriented Analysis and Design Methodology", "marks": 78 },
+        { "name": "Advanced Web Development in LARAVEL", "marks": 78 },
+        { "name": "Programming with Python", "marks": 82 },
+        { "name": "IOT", "marks": 72 },
+        { "name": "Project", "marks": 94 },
+        { "name": "Laravel Practical", "marks": 91 },
+        { "name": "Python Project", "marks": 90 }
+
+      ]
+    },
+    {
+      "year": "2nd Sem",
+      "subjects": [
+        { "name": "Android", "marks": 75 },
+        { "name": "AWS", "marks": 86},
+        { "name": "ASP.Net", "marks": 76 },
+        { "name": "Graph Theory", "marks": 71 },
+        { "name": "Project ", "marks": 94 },
+        { "name": "Android Practical", "marks":87 },
+        { "name": "AWS and Asp.net Practical", "marks": 84 }
+      ]
+    }
+  ]
+}

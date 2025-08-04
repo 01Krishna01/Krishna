@@ -1,0 +1,63 @@
+{
+  "basics": {
+    "name": "Krishna Hada",
+    "label": "Full Stack Developer",
+    "email": "krishnahada@example.com",
+    "phone": "+91-7984216141",
+    "gender":"Female",
+    "location": {
+      "address": "121 Main Street",
+      "city": "Rajkot",
+      "region": "Gujarat",
+      "postalCode": "360002",
+      "country": "India"
+      
+    },
+    "Hobbies":"Writing",
+    "summary": "Skilled Full Stack Developer with 3+ years of experience building scalable web applications using React, Node.js, and MongoDB.",
+    "profiles": [
+      
+    ]
+  },
+  "education": [
+    {
+      "institution": "Atmiya University",
+      "area": "M.Sc. (IT)",
+      "studyType": "Full Time",
+      "startDate": "2024-07",
+      "endDate": "2026-06",
+      "gpa": "8.6/10"
+    },
+    {
+      "institution": "saurashtra University",
+      "area": "BCA ",
+      "studyType": "Full Time",
+      "startDate": "2019-07",
+      "endDate": "2022-06",
+      "gpa": "8.8/10"
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": ["React", "HTML", "CSS", "JavaScript", "Tailwind", "Bootstrap"]
+    }
+   
+   
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native"
+    }
+  ]
+}

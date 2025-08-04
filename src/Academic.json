@@ -1,0 +1,11 @@
+{
+  "academicProjects": [
+    {
+      "title": "Railway Management System",
+      "techStack": ["HTML", "CSS", "Asp.net", "MySQL"],
+      "description": "A web application to manage records, including Booking no, and reports.",
+      "outcome": "Improved efficiency of record management and reduced manual work by 80%."
+    }
+   
+  ]
+}

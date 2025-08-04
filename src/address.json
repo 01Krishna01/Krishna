@@ -1,0 +1,20 @@
+{
+ "permanent Address":{
+    "Street":"Dhareshwar Main Road",
+    "city":"Rajkot",
+    "State":"Gujrat",
+    "Pin-code":"360002"
+},
+ "Currenent Address":{
+    "Street":"Dhareshwar Main Road",
+    "city":"Rajkot",
+    "State":"Gujrat", 
+    "Pin-code":"360002"
+ },
+
+"correspondence Address":{
+    "Checkbox":"Same as Permanent Address..."
+}
+
+}
+
